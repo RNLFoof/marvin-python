@@ -1,4 +1,4 @@
-# Sample code for Marvin CouchDB access via python.
+# (Fork of) Sample code for Marvin CouchDB access via python.
 
 This sample code require python3.
 
